@@ -1,7 +1,5 @@
 # Kaushik-Portfolio
 
-Certainly! Here's a well-structured README for your GitHub repository:
-
 ---
 
 # Portfolio Website
@@ -10,6 +8,7 @@ Welcome to the Portfolio website repository! This project showcases a powerful a
 
 # Preview
 
+![preview](https://github.com/KaushikOnGitHub/Kaushik-Portfolio/assets/75100949/67033365-7310-4528-b4bc-f4362c85c67a)
 
 ## Table of Contents
 
@@ -85,7 +84,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [Your Email](mailto:coolkaushiksolanki5@gmail.com) - [Your LinkedIn](https://www.linkedin.com/in/kaushik-solanki-990820123)
+Your Name - [Email](mailto:coolkaushiksolanki5@gmail.com) - [LinkedIn](https://www.linkedin.com/in/kaushik-solanki-990820123)
 
 Project Link: [[https://github.com/KaushikOnGitHub/Kaushik-Portfolio](https://github.com/KaushikOnGitHub/Kaushik-Portfolio)]
 
