@@ -1,6 +1,6 @@
 # Kaushik-Portfolio
 
-Demo:- [Demo🥳](https://kaushikongithub.github.io/Kaushik-Portfolio)
+Demo:- [Kaushik-Portfolio.github.io](https://kaushikongithub.github.io/Kaushik-Portfolio)
 
 ---
 
