@@ -10,7 +10,7 @@ Welcome to the Portfolio website repository! This project showcases a powerful a
 
 # Preview
 
-![preview](https://github.com/KaushikOnGitHub/Kaushik-Portfolio/assets/75100949/67033365-7310-4528-b4bc-f4362c85c67a)
+![preview](https://github.com/KaushikOnGitHub/Kaushik-Portfolio/blob/main/assets/img/preview.jpg)
 
 ## Table of Contents
 
